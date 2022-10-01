@@ -3,7 +3,7 @@ The project is specifically designed for institutes, in order to keep the COVID-
 
 **Project Description:**
 
-The project is based upon binary-tree data structure. The project was built using Python. In this program, the user is asked some questions, which the user has to answer. After that, a conclusion is made and displayed based uponthe answers. And a report is displayed.
+The project is based upon binary-tree data structure. The project was built using Python. In this program, the user is asked some questions, which the user has to answer. After that, a conclusion is made and displayed based upon the answers. And a report is displayed.
 
 **Project Features:**
 
