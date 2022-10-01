@@ -1,4 +1,4 @@
-                                              Self-Analysis-COVID-19-Test-Software
+                                           Self-Analysis-COVID-19-Test-Software
 The project is specifically designed for institutes, in order to keep the COVID-19 result status and make students and teachers aware about their situation. First of all, software asks the user’s general data, like name, age, blood group and vaccination information. Afterwards, user is asked 5 questions. As the user answers the questions, a report is formulated using the input data and a record is saved whether the user is COVID-19 positive or COVID-19 negative.  
 
 **Project Description:**
